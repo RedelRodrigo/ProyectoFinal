@@ -1,0 +1,6 @@
+.modalCart {
+  background: -webkit-linear-gradient(90deg, #25376f, #000000);
+  background: linear-gradient(90deg, #25376f, #000000);
+  border: white 1px solid;
+  color: white;
+}

@@ -1,0 +1,6 @@
+.footer {
+  background: -webkit-linear-gradient(90deg, #25376f, #000000);
+  background: linear-gradient(90deg, #25376f, #000000, #25376f);
+  border: white 1px solid;
+  color: white;
+}
